@@ -63,4 +63,4 @@ MIT
 
 If you use this resource in teaching or research, please cite:
 
-> Hadzi-Petrushev N, Mladenov M, Stojchevski R, Avtanski D. Using Visual Cortex Knowledge to Scaffold Artificial Neural Network Concepts. Advances in Physiology Education (submitted).
+> Hadzi-Petrushev N, Mladenov M, Stojchevski R, Avtanski D. Using Visual Cortex Knowledge to Scaffold Artificial Neural Network Concepts.
