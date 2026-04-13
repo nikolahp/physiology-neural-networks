@@ -2,7 +2,7 @@
 
 Interactive teaching resource that uses visual cortex knowledge to scaffold artificial neural network concepts for physiology students.
 
-Supplemental material for: Hadzi-Petrushev N, Mladenov M, Stojchevski R, Avtanski D. Using Visual Cortex Knowledge to Scaffold Artificial Neural Network Concepts. Advances in Physiology Education (submitted).
+Supplemental material for: Hadzi-Petrushev N, Mladenov M, Stojchevski R, Avtanski D. Using Visual Cortex Knowledge to Scaffold Artificial Neural Network Concepts.
 
 ## Live Demo
 
